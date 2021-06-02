@@ -100,3 +100,8 @@ plt.figure()
 plt.plot(histogram)
 plt.title("Histogram of difference image")
 plt.show()
+
+"""
+--------------------------PART 2--------------------------
+"""
+
